@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as a Mobile Engineer
-- 🌱 All things Android, iOS & Flutter
+- 🌱 All things Android, iOS, Flutter, React native + Expo
 
 <center>
   <table>
